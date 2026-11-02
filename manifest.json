@@ -1,0 +1,34 @@
+{
+  "id": "unlock_maximum_players",
+  "version": "1.0.0",
+  "icon": {
+    "path": "icon_atlas.png",
+    "frame_width": 32,
+    "frame_height": 32,
+    "frames": 4,
+    "fps": 4
+  },
+  "name": {
+    "en": "Unlock Maximum Players",
+    "es": "Desbloquear Jugadores Máximos"
+  },
+  "author": "G.A.B.R.A.",
+  "description": {
+    "en": "Raises the default multiplayer limit from 3 to 100 players. Actual capacity depends on the transport and hardware.",
+    "es": "Amplía el límite multijugador de 3 a 100 jugadores. La capacidad real depende del transporte y del equipo."
+  },
+  "tags": [
+    "multiplayer"
+  ],
+  "game_version": "1.0.*",
+  "dependencies": {},
+  "website": "",
+  "repository": "https://github.com/cigarro-mojao/gzm-unlock-maximum-players",
+  "credits": [
+    {
+      "name": "G.A.B.R.A.",
+      "link": ""
+    }
+  ],
+  "last_update": "2000-01-01 00:00:00"
+}
